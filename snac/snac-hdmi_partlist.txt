@@ -1,0 +1,38 @@
+Partlist
+
+
+Part     Value                          Device                         Package                     Library                                                  Sheet
+
+C1       0.1uf                          C_0805                         C0805                       rc-master-smd                                            1
+C2       0.1uf                          C_0805                         C0805                       rc-master-smd                                            1
+JP1      PINHD-1X10_2.54-S              PINHD-1X10_2.54-S              1X10-S                      pinhead-2                                                1
+JP2      PINHD-1X10_2.54-S              PINHD-1X10_2.54-S              1X10-S                      pinhead-2                                                1
+JP3                                     JUMPER-2PTH                    1X02                        SparkFun                                                 1
+K2       692112030100                   692112030100                   692112030100                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL 1
+K3       685119134923                   685119134923                   685119134923                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL 1
+Q1       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+Q2       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+Q3       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+Q4       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+Q5       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+Q6       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+Q7       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+Q8       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
+R1       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R2       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R3       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R4       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R5       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R6       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R7       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R8       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R9       10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R10      10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R11      10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R12      10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R13      10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R14      10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R15      10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+R16      10K                            RESISTOR0603-RES               0603-RES                    SparkFun                                                 1
+U1       PMIC-LDO-XC6206P332MR-G(SOT23) PMIC-LDO-XC6206P332MR-G(SOT23) SOT-23                      PMIC-LDO-XC6206P332MR-G_SOT23_                           1
+X1       JST-XH-02-PIN-ROUND-PAD        JST-XH-02-PIN-ROUND-PAD        JST-XH-02-PACKAGE-ROUND-PAD Rembrandt Electronics - JST XH Connectors v1-0           1

@@ -1,0 +1,37 @@
+Partlist
+
+Part     Value                          Package                     Library                                                  Position (inch)       Orientation
+
+C1       1uf                            C0805                       rc-master-smd                                            (0.16839998 0.07589998) R0
+C2       1uf                            C0805                       rc-master-smd                                            (0.50849975 0.119)    R90
+JP1      PINHD-1X10_2.54-S              1X10-S                      pinhead-2                                                (1.08 0.07)           R0
+JP2      PINHD-1X10_2.54-S              1X10-S                      pinhead-2                                                (1.09 0.77)           R0
+JP3                                     1X02                        SparkFun                                                 (0.393 0.772)         R0
+K1       692121030100                   692121030100                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (1.86 0.42)           R270
+K2       692112030100                   692112030100                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (0.2 0.42)            R90
+Q1       BSS138                         SOT23-3                     SparkFun                                                 (0.567 0.423)         R0
+Q2       BSS138                         SOT23-3                     SparkFun                                                 (1.016 0.423)         R0
+Q3       BSS138                         SOT23-3                     SparkFun                                                 (0.719 0.423)         R0
+Q4       BSS138                         SOT23-3                     SparkFun                                                 (0.868 0.423)         R0
+Q5       BSS138                         SOT23-3                     SparkFun                                                 (1.19 0.42)           R0
+Q6       BSS138                         SOT23-3                     SparkFun                                                 (1.34 0.42)           R0
+Q7       BSS138                         SOT23-3                     SparkFun                                                 (1.49 0.42)           R0
+Q8       BSS138                         SOT23-3                     SparkFun                                                 (1.64 0.42)           R0
+R1       10K                            0603-RES                    SparkFun                                                 (0.865 0.271)         R0
+R2       10K                            0603-RES                    SparkFun                                                 (0.719 0.205)         R0
+R3       10K                            0603-RES                    SparkFun                                                 (0.566 0.273)         R0
+R4       10K                            0603-RES                    SparkFun                                                 (0.56689998 0.62480007) R180
+R5       10K                            0603-RES                    SparkFun                                                 (0.862 0.626)         R180
+R6       10K                            0603-RES                    SparkFun                                                 (1.02 0.2)            R0
+R7       10K                            0603-RES                    SparkFun                                                 (1.016 0.573)         R180
+R8       10K                            0603-RES                    SparkFun                                                 (1.191 0.271)         R0
+R9       10K                            0603-RES                    SparkFun                                                 (1.185 0.625)         R0
+R10      10K                            0603-RES                    SparkFun                                                 (0.715 0.574)         R180
+R11      10K                            0603-RES                    SparkFun                                                 (1.337 0.203)         R0
+R12      10K                            0603-RES                    SparkFun                                                 (1.34 0.57)           R0
+R13      10K                            0603-RES                    SparkFun                                                 (1.491 0.27)          R0
+R14      10K                            0603-RES                    SparkFun                                                 (1.49 0.622)          R0
+R15      10K                            0603-RES                    SparkFun                                                 (1.641 0.329)         R0
+R16      10K                            0603-RES                    SparkFun                                                 (1.641 0.568)         R0
+U1       PMIC-LDO-XC6206P332MR-G(SOT23) SOT-23                      PMIC-LDO-XC6206P332MR-G_SOT23_                           (0.36 0.111)          R0
+X1       JST-XH-02-PIN-ROUND-PAD        JST-XH-02-PACKAGE-ROUND-PAD Rembrandt Electronics - JST XH Connectors v1-0           (1.672 0.156)         R270
