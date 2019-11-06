@@ -8,7 +8,7 @@ JP1      PINHD-1X10_2.54-S              1X10-S                      pinhead-2   
 JP2      PINHD-1X10_2.54-S              1X10-S                      pinhead-2                                                (1.09 0.77)           R0
 JP3                                     1X02                        SparkFun                                                 (0.393 0.772)         R0
 K1       692121030100                   692121030100                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (1.86 0.42)           R270
-K2       692112030100                   692112030100                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL (0.2 0.42)            R90
+K2       a19032000ux0260               a19032000ux0260              Uxcell                                                   (0.2 0.42)            R90
 Q1       BSS138                         SOT23-3                     SparkFun                                                 (0.567 0.423)         R0
 Q2       BSS138                         SOT23-3                     SparkFun                                                 (1.016 0.423)         R0
 Q3       BSS138                         SOT23-3                     SparkFun                                                 (0.719 0.423)         R0
