@@ -8,7 +8,7 @@ C2       0.1uf                          C_0805                         C0805    
 JP1      PINHD-1X10_2.54-S              PINHD-1X10_2.54-S              1X10-S                      pinhead-2                                                1
 JP2      PINHD-1X10_2.54-S              PINHD-1X10_2.54-S              1X10-S                      pinhead-2                                                1
 JP3                                     JUMPER-2PTH                    1X02                        SparkFun                                                 1
-K2       692112030100                   692112030100                   692112030100                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL 1
+K2       a19032000ux0260                a19032000ux0260                a19032000ux0260           Uxcell 1
 K3       685119134923                   685119134923                   685119134923                Wuerth_Elektronik_eiCan_Communication_Connectors_STENCIL 1
 Q1       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
 Q2       BSS138                         MOSFET-NCHANNELSMD             SOT23-3                     SparkFun                                                 1
