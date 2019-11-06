@@ -15,3 +15,9 @@ Becasue the SNAC connects to the User port the peripheral connects to the GPIO o
 *A mod to the IO board is needed if you want to use SEGA peripherals. A possible IO board revision in the future may fix this requirement.
 
 -TODO detail the needed mod
+
+-Updates
+
+Changed the partslist to use a different part for the male USB connector.
+
+Uxcell a19032000ux0260 instead of Wuerth 692112030100
