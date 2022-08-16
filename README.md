@@ -12,7 +12,7 @@ The SNAC is available in 2 versions the only difference being the connector on t
 
 Becasue the SNAC connects to the User port the peripheral connects to the GPIO of the MiSTer, this bypasses all layers the normal usb controllers use. So it's very much like having a controller port for the original system. One benefit of this is that most weird peripherals should work with their cores(like Lightguns etc) which most normal usb converters either don't or can't do. One downside to bypassing the layers is the you can't controle the OSD.
 
-*A mod to the IO board is needed if you want to use SEGA peripherals. A possible IO board revision in the future may fix this requirement.
+*A mod to the older IO boards is needed if you want to use SEGA peripherals. Analog IO board 6.1 and Digital 1.2 fix this issue and have a jumper near USER port that needs to be set to io6 .
 
 -TODO detail the needed mod
 
@@ -21,3 +21,5 @@ Becasue the SNAC connects to the User port the peripheral connects to the GPIO o
 Changed the partslist to use a different part for the male USB connector.
 
 Uxcell a19032000ux0260 instead of Wuerth 692112030100
+
+Addded Mini version of the hdmi and USB3 snac boards.
